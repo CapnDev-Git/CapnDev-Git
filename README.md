@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eliott 'CapnDev' Flechtner 
 - 👀 I’m interested in coding & developing apps
-- 🌱 Currently knows Python, GML, HTML, CSS & learns C# & C++
+- 🌱 Currently knows Python, GML, HTML, CSS & is learning C# & C++
 
 <!---
 CAPTAINCOOL-YT/CAPTAINCOOL-YT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
