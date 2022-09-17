@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eliott 'Capn' Flechtner 
 - 👀 I’m interested in coding & developing apps
-- 🌱 Currently knows Python, GML, OCamL ; learning C#
+- 🌱 Currently knows Python, GML, OCamL, C# ; learning C & ASM
 - Student at EPITA Paris
 
 <!---
