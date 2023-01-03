@@ -5,7 +5,7 @@ Loves to direct teams of various sizes & autonomous dev that will **always** fin
 
 CS student at EPITA (Paris, France).
 
-### 💻 My website : [TO FILL]
+### 💻 My website : [REDACTED]
 
 ### ⚙️ Currently using/learning several tools
 <p>
@@ -27,6 +27,7 @@ CS student at EPITA (Paris, France).
 ### ✅ Personal projects
 
 - Chess engine in GameMaker:Studio-2 in **GML**
+- Advent of Code 2022 participation
 - [Poker engine](https://github.com/CapnDev-Git/PokerAI) playable in console with in-game statistics in **C#**
 
 ### 📊 Stats
