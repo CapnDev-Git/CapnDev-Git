@@ -28,6 +28,7 @@ CS student at EPITA (Paris, France).
 
 - Chess engine in GameMaker:Studio-2 in **GML**
 - Advent of Code 2022 participation
+- Bot to mute machine's sound when an ad is playing on Spotify
 - [Poker engine](https://github.com/CapnDev-Git/PokerAI) playable in console with in-game statistics in **C#**
 
 ### 📊 Stats
