@@ -23,6 +23,7 @@ CS student at EPITA (Paris, France).
 
 - EPITA S4 at Shibaura Intitute of Technology (東京都, 日本) : [TO FILL] 
 - EPITA S3 : Sudoku solver using [OCR](https://github.com/EPITA-S3-OCR/OCR-Sudoku-Solver-S3-Project) in **C** with GTK-3.0 and SDL2
+- EPITA S3 : A functional calculator in ASM (68k)
 - EPITA S2 : EpiKart, a 3D kart racing game with multiplayer mode (handling of online network experience) in **C#** with Unity
 - EPITA S2 : [Abacus](https://github.com/CapnDev-Git/Abacus), a calculator parsing inputs from command line in **C#**
 - EPITA S1 : AFIT, maths arithmetic project in **OCaml**
