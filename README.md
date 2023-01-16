@@ -3,6 +3,8 @@ I'm Eliott, 18 years of existence, probably currently talking to a **rubber-duck
 
 Loves to direct teams of various sizes & autonomous dev that will **always** find what you are looking for.
 
+Member and tutor in *BackToBasics*, a french student association to give assistance and lessons of various subjects at EPITA. Also assisted on developing a bot for the discord server and its website.
+
 CS student at EPITA (Paris, France).
 
 ### 💻 My website : [REDACTED]
