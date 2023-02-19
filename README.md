@@ -3,7 +3,7 @@ I'm Eliott, 18 years of existence, probably currently talking to a **rubber-duck
 
 Loves to direct teams of various sizes & autonomous dev that will **always** find what you are looking for.
 
-Member and tutor in *BackToBasics*, a french student association to give assistance and lessons of various subjects at EPITA. Also assisted on developing a bot for the discord server and its website.
+Vice-president of *BackToBasics*, a french student association to give assistance and lessons of various subjects at EPITA. Also assisted on developing a bot for the discord server and its website.
 
 CS student at EPITA (Paris, France).
 
@@ -32,7 +32,7 @@ CS student at EPITA (Paris, France).
 
 - A [chess engine](https://github.com/CapnDev-Git/Chess-Engine-GML) in GameMaker:Studio-2 in **GML**
 - [Advent of Code](https://github.com/CapnDev-Git/AdventOfCode) participations
-- Bot to mute machine's sound when an ad is playing on Spotify (firs time using API & web requests)
+- Bot to mute machine's sound when an ad is playing on Spotify (first time using API & web requests)
 - [Poker engine](https://github.com/CapnDev-Git/PokerAI) playable in console with in-game statistics in **C#**
 
 ### 📊 Stats
