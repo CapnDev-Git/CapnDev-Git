@@ -1,7 +1,5 @@
 ### 👋🌐
-I'm Eliott, 18 years of existence, CS student at [EPITA](https://github.com/epita) (Paris, France).
-
-Probably currently talking to a **rubber-duck**. Coding stuff ig...? Loves to direct teams of various sizes & autonomous dev that will **always** find what you are looking for.
+I'm Eliott, 18 years of existence, autonomous & CS student at [EPITA](https://github.com/epita) (Paris, France).
 
 Vice-president of [BackToBasics](https://github.com/orgs/BackToBasicsEpita/repositories), a french student association that provides assistance & lectures of subjects taught at EPITA. Also assisted on developing a bot for the discord server and its website.
 
