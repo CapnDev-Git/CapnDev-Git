@@ -1,5 +1,5 @@
 ### 👋 Hi there
-I'm Eliott, 18 years of existence, probably currently talking to a **rubber-duck**. Still have no clue what a quantum computer is. Coding stuff ig...?
+I'm Eliott, 18 years of existence, probably currently talking to a **rubber-duck**. Coding stuff ig...?
 
 Loves to direct teams of various sizes & autonomous dev that will **always** find what you are looking for.
 
