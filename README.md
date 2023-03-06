@@ -3,37 +3,32 @@ I'm Eliott, 18 years of existence, probably currently talking to a **rubber-duck
 
 Loves to direct teams of various sizes & autonomous dev that will **always** find what you are looking for.
 
-Vice-president of *BackToBasics*, a french student association to give assistance and lessons of various subjects at EPITA. Also assisted on developing a bot for the discord server and its website.
+Vice-president of *[BackToBasics]*(https://github.com/orgs/BackToBasicsEpita/repositories), a french student association that gives assistance and lessons of various subjects at EPITA. Also assisted on developing a bot for the discord server and its website.
 
-CS student at EPITA (Paris, France).
+CS student at [EPITA](https://github.com/epita) (Paris, France).
 
-### 💻 My website : [REDACTED]
+### 💻 My website : [SOON]
 
 ### ⚙️ Currently using/learning several tools
-<p>
-<img alt="C" src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c&logoColor=white" href=""/>
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" href=""/>
-<img alt="Ocaml" src="https://img.shields.io/badge/ocaml-orange?style=for-the-badge&logo=ocaml&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="UNITY" src="https://img.shields.io/badge/UNITY-black?&style=for-the-badge&logo=UNITY&logoColor=white"/>
-<img alt="GIT" src="https://img.shields.io/badge/GIT-grey?&style=for-the-badge&logo=GIT&logoColor=white"/>
-</p>
+Knows: C, C#, Python, HTML, CSS, JavaScript, TypeScript
+Uses regularly: Docker, Git, React
 
-### ✅ Past school projects
+### ✅ School projects & experience
 
-- EPITA S4 at Shibaura Intitute of Technology (東京都, 日本) : [TO FILL] 
+- EPITA S4 at Shibaura Intitute of Technology (東京都, 日本)
 - EPITA S3 : Sudoku solver using [OCR](https://github.com/EPITA-S3-OCR/OCR-Sudoku-Solver-S3-Project) in **C** with GTK-3.0 and SDL2
-- EPITA S3 : A functional calculator in ASM (68k)
-- EPITA S2 : EpiKart, a 3D kart racing game with multiplayer mode (handling of online network experience) in **C#** with Unity
+- EPITA S3 : A functional [calculator]() in ASM (68k)
+- EPITA S2 : EpiKart, a 3D kart racing game with multiplayer gameplay in **C#** with _Unity_
 - EPITA S2 : [Abacus](https://github.com/CapnDev-Git/Abacus), a calculator parsing inputs from command line in **C#**
 - EPITA S1 : AFIT, maths arithmetic project in **OCaml**
 
-### ✅ Personal projects
+### ✅ Personal & professional projects
 
 - A [chess engine](https://github.com/CapnDev-Git/Chess-Engine-GML) in GameMaker:Studio-2 in **GML**
 - [Advent of Code](https://github.com/CapnDev-Git/AdventOfCode) participations
 - Bot to mute machine's sound when an ad is playing on Spotify (first time using API & web requests)
-- [Poker engine](https://github.com/CapnDev-Git/PokerAI) playable in console with in-game statistics in **C#**
+- [Poker engine](https://github.com/CapnDev-Git/PokerAI) playable in console with in-game statistics **in C#**
+- Creation of a data analysis interface & automation processes for [Allianz](https://www.allianz.fr/) **in Python**
 
 ### 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CapnDev-Git&theme=radical)](https://github.com/CapnDev-Git/)
