@@ -26,8 +26,3 @@ Learning: Web-dev & databases management
 - Bot improving Spotify's UI **in Python** (first time using API & web requests)
 - [Poker engine](https://github.com/CapnDev-Git/PokerAI) playable in console with in-game statistics **in C#**
 - Creation of a data analysis interface & automation processes for [Allianz](https://www.allianz.fr/) **in Python**
-
-### 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CapnDev-Git&theme=radical)](https://github.com/CapnDev-Git/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapnDev-Git&theme=radical)](https://github.com/CapnDev-Git/)
