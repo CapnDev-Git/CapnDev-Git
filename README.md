@@ -1,10 +1,10 @@
 ### 👋🌐
-I'm Eliott, 18 years of existence, CS student at [EPITA](https://github.com/epita) (Paris, France).
+I'm Eliott, 19 years of existence, CS student at [EPITA](https://github.com/epita) (Paris, France).
 
 Vice-president of [BackToBasics](https://linktr.ee/backtobasicsepita), a french student association that provides assistance & lectures of subjects taught at EPITA.
 
 ### ⚙️ Currently using/learning several tools
-Using regularly: C, C#, Python, HTML, CSS, JavaScript, TypeScript, SQL, React, Postgres
+Using regularly: C, C#, Python, JavaScript, TypeScript, SQL
 
 Tools: Docker, Git, VSCode, ViM
 
