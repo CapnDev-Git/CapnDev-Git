@@ -8,7 +8,7 @@ Using regularly: C, C#, Python, JavaScript, TypeScript, SQL
 
 Tools: Docker, Git, VSCode, ViM, Emacs
 
-Learning: Web-dev & databases management
+Learning: OS & Virtualization, data science, web-dev & databases management
 
 ### ✅ School projects & experiences
 
