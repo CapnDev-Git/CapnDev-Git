@@ -21,8 +21,12 @@ Learning: OS & Virtualization, data science, web-dev & databases management
 
 ### ✅ Personal & professional projects
 
-- A [chess engine](https://github.com/CapnDev-Git/Chess-Engine-GML) in GameMaker:Studio-2 **in GML**
-- [Advent of Code](https://github.com/CapnDev-Git/AdventOfCode) participations
+- A [iAPX86 disassembler](https://github.com/CapnDev-Git/iAPX86-Disassembler) **in C**
+- A [Minix2 interpreter](https://github.com/CapnDev-Git/minix2-interpreter) **in C**
+- A [Brainf\*ck esoteric language interpreter](https://github.com/CapnDev-Git/BF-Interpreter) **in C**
+- Creation of a data analysis interface & automation processes for [Allianz](https://www.allianz.fr/) **in Python**
+
 - Bot improving Spotify's UI **in Python** (first time using API & web requests)
 - [Poker engine](https://github.com/CapnDev-Git/PokerAI) playable in console with in-game statistics **in C#**
-- Creation of a data analysis interface & automation processes for [Allianz](https://www.allianz.fr/) **in Python**
+- [Advent of Code](https://github.com/CapnDev-Git/AdventOfCode) participations
+- A [chess engine](https://github.com/CapnDev-Git/Chess-Engine-GML) in GameMaker:Studio-2 **in GML**
