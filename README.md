@@ -22,7 +22,7 @@ Learning: OS & Virtualization, data science, web-dev & databases management
 ### ✅ Personal & professional projects
 
 - A [iAPX86 disassembler](https://github.com/CapnDev-Git/iAPX86-Disassembler) **in C**
-- A [Minix2 interpreter](https://github.com/CapnDev-Git/minix2-interpreter) **in C**
+- A [Minix2 (iAPX6) interpreter](https://github.com/CapnDev-Git/minix2-interpreter) **in C**
 - A [Brainf\*ck esoteric language interpreter](https://github.com/CapnDev-Git/BF-Interpreter) **in C**
 - Creation of a data analysis interface & automation processes for [Allianz](https://www.allianz.fr/) **in Python**
 
