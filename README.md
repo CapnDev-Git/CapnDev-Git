@@ -21,7 +21,7 @@ Learning: OS & Virtualization, data science, web-dev & databases management
 
 ### ✅ Personal & professional projects
 
-- A [Minix2 (iAPX86) compiler (disassembler + interpreter](https://github.com/CapnDev-Git/minix2-interpreter) **in C**
+- A [Minix2 (iAPX86) compiler (disassembler + interpreter)](https://github.com/CapnDev-Git/minix2-interpreter) **in C**
 - A [Brainf\*ck esoteric language interpreter](https://github.com/CapnDev-Git/BF-Interpreter) **in C**
 - Creation of a data analysis interface & automation processes for [Allianz](https://www.allianz.fr/) **in Python**
 - Bot improving Spotify's UI **in Python** (first time using API & web requests)
