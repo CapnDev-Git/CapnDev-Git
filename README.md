@@ -4,11 +4,11 @@ I'm Eliott, 19 years of existence, CS student at [EPITA](https://github.com/epit
 Vice-president of [BackToBasics](https://linktr.ee/backtobasicsepita), a french student association that provides assistance & lectures of superior engineering level studies.
 
 ### ⚙️ Currently using/learning several tools
-Using regularly: C, C#, Python, JavaScript, TypeScript, SQL
+Using regularly: C, C#, Python
 
 Tools: Docker, Git, VSCode, ViM, Emacs
 
-Learning: OS & Virtualization, data science, web-dev & databases management
+Learning: OS & Virtualization, low-level computer architectures, data science, web-dev & databases management
 
 ### ✅ School projects & experiences
 
