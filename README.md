@@ -6,9 +6,9 @@ Vice-president of [BackToBasics](https://linktr.ee/backtobasicsepita), a french 
 ### ⚙️ Currently using/learning several tools
 Using regularly: C, C#, Python
 
-Tools: Docker, Git, VSCode, ViM, Emacs
+Tools: Docker, Git, VSCode, ViM
 
-Learning: OS & Virtualization, low-level computer architectures, data science, web-dev & databases management
+Learning: OS & Virtualization, low-level computer architectures, data science, web-dev & databases management, UNIX systems, web requests & servers
 
 ### ✅ School projects & experiences
 
