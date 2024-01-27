@@ -1,16 +1,16 @@
 ### 👋🌐
-I'm Eliott, 19 years of existence, CS student at [EPITA](https://github.com/epita) (Paris, France).
+I'm Eliott, 19 years of existence, CS student at EPITA (Paris, France).
 
 Vice-president of [BackToBasics](https://linktr.ee/backtobasicsepita), a french student association that provides assistance & lectures of superior engineering level studies.
 
 ### ⚙️ Currently using/learning several tools
-Using regularly: C, C#, Python
+Using regularly: C, C#, Python, Bash, x86, 68k
 
 Tools: Docker, Git, VSCode, ViM
 
 Learning: OS & Virtualization, low-level computer architectures, data science, web-dev & databases management, UNIX systems, web requests & servers
 
-### ✅ School projects & experiences
+### 👨‍🎓 School projects & experiences
 
 - EPITA Semester 4 spent at [**芝浦工業大学**](https://www.shibaura-it.ac.jp/en/) (Shibaura Institute of Technology) in 東京都 (Tōkyō-to, Japan).
 - EPITA Semester 3 : Sudoku solver using [OCR](https://github.com/EPITA-S3-OCR/OCR-Sudoku-Solver-S3-Project) in **C** with no librairies except GTK-3.0 (UI) and SDL2 (image processing)
@@ -24,7 +24,7 @@ Learning: OS & Virtualization, low-level computer architectures, data science, w
 - A [Minix2 (iAPX86) compiler (disassembler + interpreter)](https://github.com/CapnDev-Git/minix2-interpreter) **in C**
 - A [Brainf\*ck esoteric language interpreter](https://github.com/CapnDev-Git/BF-Interpreter) **in C**
 - Creation of a data analysis interface & automation processes for [Allianz](https://www.allianz.fr/) **in Python**
-- Bot improving Spotify's UI **in Python** (first time using API & web requests)
+- Bot improving Spotify's UI **in Python** and muting when ads are playing (first time using API & web requests)
 - [Poker engine](https://github.com/CapnDev-Git/PokerAI) playable in console with in-game statistics **in C#**
 - [Advent of Code](https://github.com/CapnDev-Git/AdventOfCode) participations
 - A [chess engine](https://github.com/CapnDev-Git/Chess-Engine-GML) in GameMaker:Studio-2 **in GML**
