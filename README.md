@@ -24,8 +24,7 @@ Currently, I'm immersing myself in:
 - Web requests & servers
 
 ## School Projects & Experiences 🎒
-
-- **EPITA Semester 4:** Engaged in a cultural and educational exchange at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) in Tokyo, Japan.
+- **Semester Abroad:** Engaged in a cultural and educational exchange at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) in Tokyo, Japan.
 - **EPITA Semester 3:** Crafted a robust Sudoku solver leveraging OCR technology in C, complemented by GTK-3.0 and SDL2.
 - **EPITA Semester 3:** Engineered a functional calculator in 68000 ASM, showcasing prowess in low-level programming.
 - **EPITA Semester 2:** Led the development of EpiKart, a thrilling 3D kart racing game in C# with Unity, demonstrating adeptness in game development.
@@ -34,12 +33,18 @@ Currently, I'm immersing myself in:
 
 ## Personal & Professional Projects 🚀
 
-- Created a Minix2 (iAPX86) compiler comprising a disassembler and interpreter in C.
-- Developed a versatile Brainf\*ck esoteric language interpreter in C.
-- Engineered a data analysis interface and automated processes for Allianz in Python, enhancing operational efficiency.
-- Designed a bot to enhance Spotify's UI and mute ads using Python and web requests, showcasing ingenuity in automation.
-- Crafted a console-based poker engine with in-game statistics in C#, delivering an immersive gaming experience.
-- Actively participated in Advent of Code challenges, honing problem-solving skills.
-- Developed a sophisticated chess engine in GameMaker: Studio-2 (GML), displaying creativity and strategic thinking.
+- **42sh:** Collaborated with a group of four to develop a POSIX shell from scratch in C, employing Autotools, parsers, lexers, and AST.
+- **Tiger:** Worked in a group of four to create a fully-fledged compiler for the toy language Tiger in C++ using Bison and Flex.
+- **HTTPd:** Independently developed a HTTP 1.1 protocol server from scratch in C for handling & parsing requests.
+- **JWS:** Created a Java web service with backend/frontend using REST API & architecture, working solo.
+- **Minix2 (iAPX86) Compiler**: Created a compiler comprising a disassembler and interpreter in C.
+- **Brainf\*ck Interpreter**: Developed a versatile Brainf\*ck esoteric language interpreter in C.
+- **Data Analysis Interface for Allianz**: Engineered a data analysis interface and automated processes for Allianz in Python, enhancing operational efficiency.
+- **Spotify UI Enhancement Bot**: Designed a bot to enhance Spotify's UI and mute ads using Python and web requests, showcasing ingenuity in automation.
+- **Console-Based Poker Engine**: Crafted a console-based poker engine with in-game statistics in C#.
+- **Advent of Code Participation**: Actively participated in Advent of Code challenges, honing problem-solving skills.
+- **GameMaker Chess Engine**: Developed a sophisticated chess engine in GameMaker: Studio-2 (GML), displaying creativity and strategic thinking.
+- **Cryptography Library & Tools**: Implemented a cryptography library & tools in Python, including ElGamal encryption, attacks, and various encryption models.
+- **Exploration of AI Basics**: Explored AI machine learning basics from scratch in Python and other learning algorithms.
 
 Feel free to explore my repositories for further insights into my projects and contributions!
