@@ -1,30 +1,45 @@
-### 👋🌐
-I'm Eliott, 19 years of existence, CS student at EPITA (Paris, France).
+# Welcome! 👋🌐
 
-Vice-president of [BackToBasics](https://linktr.ee/backtobasicsepita), a french student association that provides assistance & lectures of superior engineering level studies.
+Greetings! I'm Eliott, a 19-year-old Computer Science student at EPITA (Paris, France). I'm deeply engaged in exploring diverse tools, undertaking challenging school projects, and pursuing personal and professional endeavors with fervor.
 
-### ⚙️ Currently using/learning several tools
-Using regularly: C, C#, Python, Bash, x86, 68k
+## About Me ℹ️
 
-Tools: Docker, Git, VSCode, ViM
+- 🎓 Vice-president of [BackToBasics](https://www.linkedin.com/company/backtobasicsepita), a prominent French student association focused on providing assistance and organizing lectures on advanced engineering studies.
+- 💻 Proficient in C, Java, Python, and various other programming languages.
+- 🌱 Currently delving into OS & Virtualization, low-level computer architectures, data science, and web development & databases management.
+- 🇯🇵 Had the enriching experience of studying at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) in Tokyo, Japan, during one of my semesters.
 
-Learning: OS & Virtualization, low-level computer architectures, data science, web-dev & databases management, UNIX systems, web requests & servers
+## Tools & Technologies 🛠️
 
-### 👨‍🎓 School projects & experiences
+In my toolbox, you'll find:
+- C, C#, Python, Bash, x86, 68k, C++, Java, JavaScript, PostGreSQL
+- Docker, Git, VSCode, ViM, Autotools, CMake
 
-- EPITA Semester 4 spent at [**芝浦工業大学**](https://www.shibaura-it.ac.jp/en/) (Shibaura Institute of Technology) in 東京都 (Tōkyō-to, Japan).
-- EPITA Semester 3 : Sudoku solver using [OCR](https://github.com/EPITA-S3-OCR/OCR-Sudoku-Solver-S3-Project) in **C** with no librairies except GTK-3.0 (UI) and SDL2 (image processing)
-- EPITA Semester 3 : A functional [calculator](https://github.com/CapnDev-Git/ASM-Journey-S3/tree/main/Calculator) in 68000 ASM
-- EPITA Semester 2 : [EpiKart](https://github.com/Team-BINBINKS/EpiKart-S2-Project), a 3D kart racing game with multiplayer gameplay in **C#** with _Unity_
-- EPITA Semester 2 : [Abacus](https://github.com/CapnDev-Git/Abacus), a calculator parsing inputs from command line in **C#**
-- EPITA Semester 1 : AFIT, a maths arithmetic project in **OCaml**
+Currently, I'm immersing myself in:
+- OS & Virtualization
+- Low-level computer architectures
+- Data science
+- Web development & databases management
+- UNIX systems
+- Web requests & servers
 
-### ✅ Personal & professional projects
+## School Projects & Experiences 🎒
 
-- A [Minix2 (iAPX86) compiler (disassembler + interpreter)](https://github.com/CapnDev-Git/minix2-interpreter) **in C**
-- A [Brainf\*ck esoteric language interpreter](https://github.com/CapnDev-Git/BF-Interpreter) **in C**
-- Creation of a data analysis interface & automation processes for [Allianz](https://www.allianz.fr/) **in Python**
-- Bot improving Spotify's UI **in Python** and muting when ads are playing (first time using API & web requests)
-- [Poker engine](https://github.com/CapnDev-Git/PokerAI) playable in console with in-game statistics **in C#**
-- [Advent of Code](https://github.com/CapnDev-Git/AdventOfCode) participations
-- A [chess engine](https://github.com/CapnDev-Git/Chess-Engine-GML) in GameMaker:Studio-2 **in GML**
+- **EPITA Semester 4:** Engaged in a cultural and educational exchange at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) in Tokyo, Japan.
+- **EPITA Semester 3:** Crafted a robust Sudoku solver leveraging OCR technology in C, complemented by GTK-3.0 and SDL2.
+- **EPITA Semester 3:** Engineered a functional calculator in 68000 ASM, showcasing prowess in low-level programming.
+- **EPITA Semester 2:** Led the development of EpiKart, a thrilling 3D kart racing game in C# with Unity, demonstrating adeptness in game development.
+- **EPITA Semester 2:** Delivered Abacus, a sophisticated command-line calculator in C#, facilitating mathematical computations with efficiency.
+- **EPITA Semester 1:** Contributed to AFIT, a mathematically-oriented project in OCaml, highlighting proficiency in functional programming.
+
+## Personal & Professional Projects 🚀
+
+- Created a Minix2 (iAPX86) compiler comprising a disassembler and interpreter in C.
+- Developed a versatile Brainf\*ck esoteric language interpreter in C.
+- Engineered a data analysis interface and automated processes for Allianz in Python, enhancing operational efficiency.
+- Designed a bot to enhance Spotify's UI and mute ads using Python and web requests, showcasing ingenuity in automation.
+- Crafted a console-based poker engine with in-game statistics in C#, delivering an immersive gaming experience.
+- Actively participated in Advent of Code challenges, honing problem-solving skills.
+- Developed a sophisticated chess engine in GameMaker: Studio-2 (GML), displaying creativity and strategic thinking.
+
+Feel free to explore my repositories for further insights into my projects and contributions!
