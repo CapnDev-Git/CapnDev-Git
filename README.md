@@ -32,7 +32,8 @@ Currently, I'm immersing myself in:
 - **EPITA Semester 1:** Contributed to AFIT, a mathematically-oriented project in OCaml, highlighting proficiency in functional programming.
 
 ## Personal & Professional Projects 🚀
-
+- **Cryptography Library & Tools**: Implemented a cryptography library & tools in Python, including ElGamal encryption, attacks, and various encryption models.
+- **Exploration of AI Basics**: Explored AI machine learning basics from scratch in Python and other learning algorithms.
 - **42sh:** Collaborated with a group of four to develop a POSIX shell from scratch in C, employing Autotools, parsers, lexers, and AST.
 - **Tiger:** Worked in a group of four to create a fully-fledged compiler for the toy language Tiger in C++ using Bison and Flex.
 - **HTTPd:** Independently developed a HTTP 1.1 protocol server from scratch in C for handling & parsing requests.
@@ -44,7 +45,5 @@ Currently, I'm immersing myself in:
 - **Console-Based Poker Engine**: Crafted a console-based poker engine with in-game statistics in C#.
 - **Advent of Code Participation**: Actively participated in Advent of Code challenges, honing problem-solving skills.
 - **GameMaker Chess Engine**: Developed a sophisticated chess engine in GameMaker: Studio-2 (GML), displaying creativity and strategic thinking.
-- **Cryptography Library & Tools**: Implemented a cryptography library & tools in Python, including ElGamal encryption, attacks, and various encryption models.
-- **Exploration of AI Basics**: Explored AI machine learning basics from scratch in Python and other learning algorithms.
 
 Feel free to explore my repositories for further insights into my projects and contributions!
