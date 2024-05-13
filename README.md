@@ -1,6 +1,6 @@
 # Welcome! 👋🌐
 
-Greetings! I'm Eliott, a 19-year-old Computer Science student at EPITA (Paris, France). I'm deeply engaged in exploring diverse tools, undertaking challenging school projects, and pursuing personal and professional endeavors with fervor.
+Greetings! I'm Eliott, a 20-year-old Computer Science student at EPITA (Paris, France). I'm deeply engaged in exploring diverse tools, undertaking challenging school projects, and pursuing personal and professional endeavors with fervor.
 
 ## About Me ℹ️
 
