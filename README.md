@@ -34,6 +34,9 @@ Currently, I'm immersing myself in:
 - **EPITA Semester 2:** Delivered Abacus, a sophisticated command-line calculator in C#, facilitating mathematical computations with efficiency.
 - **EPITA Semester 1:** Contributed to AFIT, a mathematically-oriented project in OCaml, highlighting proficiency in functional programming.
 
+## Hackathon Entries 💡
+- **PedalAI**: Took part in the MistralAI Paris Station F Hackathon and created [PedalAI](https://github.com/HarmonicHackers/PedalAI), an AI assistant allowing beginners to seamlessly create music, just like a virtual pedalboard! Powered by MistralAI largest models, Groq, Weights and Biases, Python and JS!
+
 ## Personal & Professional Projects 🚀
 - **K Project**: Developed a x86 32 bits Intel architecture computer Kernel in C.
 - **AI Medical Data Classification**: Developed and classified medical breast cancer data using machine learning algorithms using the Wisconsin Breast Cancer dataset using Python and NumPy.
