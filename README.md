@@ -1,6 +1,6 @@
 # Welcome! 👋🌐
 
-Greetings! I'm Eliott, a 20-year-old Computer Science student at EPITA (Paris, France). Currently working at Nestlé, Kobe, Japan in the Data Engineering field. I'm deeply engaged in exploring diverse tools, undertaking challenging school projects, and pursuing personal and professional endeavors with fervor.
+Greetings! I'm Eliott, a 20-year-old Computer Science student at EPITA (Paris, France). I'm deeply engaged in exploring diverse tools, undertaking challenging school projects, and pursuing personal and professional endeavors with fervor.
 
 ## About Me ℹ️
 
@@ -8,6 +8,7 @@ Greetings! I'm Eliott, a 20-year-old Computer Science student at EPITA (Paris, F
 - 💻 Proficient in C, Java, Python and various other programming languages.
 - 🌱 Currently delving into OS & Virtualization, low-level computer architectures, data science, and web development & databases management.
 - 🇯🇵 Had the enriching experience of studying at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/) in Tokyo, Japan, during one of my semesters.
+- 👔 Working at Nestlé Japan Ltd in Kobe, Japan in the Data Engineering field.
 
 ## Tools & Technologies 🛠️
 
